@@ -1,5 +1,6 @@
 # gpgsync
 
+go 在线编辑go代码运行，可以协调多人
 * The Go Playground with coedit mode.
 
 ## Demo
